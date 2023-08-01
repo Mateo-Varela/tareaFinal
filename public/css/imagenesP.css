@@ -1,0 +1,11 @@
+
+
+$grid-breakpoints: (
+   md: 768px;
+);
+
+.col{
+	flex: 1 0 0%;
+	display: flex;
+	justify-content: center;
+}
